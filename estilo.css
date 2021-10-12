@@ -125,7 +125,7 @@ main .coluna section {
     /*border: 2px solid #d4e9ff;*/
     border: 2px solid transparent;
     margin: 0 0 20px;
-    padding: 20px;
+    padding: 4px;
     min-height: 187px;
     color: var(--CorTextoGrande);
     background-color: var(--corBackgroundCentro); 
